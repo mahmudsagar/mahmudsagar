@@ -29,7 +29,9 @@ I am a skilled JavaScript engineer with a solid foundation in React and Node.js,
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/mahmudsagar"><img src="https://github-readme-stats.vercel.app/api?username=mahmudsagar&show_icons=true&hide=issues,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="mahmudsagar's GitHub stats" /></a>
+[![Mahmudul Hasan Sagar](https://github-readme-stats-personal-seven.vercel.app/api?username=mahmudsagar&count_private=true&show_icons=true&include_all_commits=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true)]()
+
+<!-- <a href="http://www.github.com/mahmudsagar"><img src="https://github-readme-stats.vercel.app/api?username=mahmudsagar&show_icons=true&hide=issues,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="mahmudsagar's GitHub stats" /></a> -->
 
 <a href="http://www.github.com/mahmudsagar"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmudsagar&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
@@ -37,7 +39,9 @@ I am a skilled JavaScript engineer with a solid foundation in React and Node.js,
 
 ### 🏆 GitHub trophies:
 
-<p align="left"> <a href="https://github.com/mahmudsagar/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahmudsagar&theme=dark&column=-1" alt="mahmudsagar" /></a> </p>
+<p align="left"> <a href="https://github.com/mahmudsagar/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahmudsagar&theme=onedark&title=MultiLanguage,Repositories,Experince,Commits,PullRequest,Reviews" alt="mahmudsagar" /></a> </p>
+
+<!-- <p align="left"> <a href="https://github.com/mahmudsagar/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahmudsagar&theme=onedark" alt="mahmudsagar" /></a> </p> -->
 
  
 ### ✨ GitHub contribution:
