@@ -39,7 +39,7 @@ I am a skilled JavaScript engineer with a solid foundation in React and Node.js,
 
 ### 🏆 GitHub trophies:
 
-<p align="left"> <a href="https://github.com/mahmudsagar/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahmudsagar&theme=onedark&title=MultiLanguage,Repositories,Experince,Commits,PullRequest,Reviews" alt="mahmudsagar" /></a> </p>
+<p align="left"> <a href="https://github.com/mahmudsagar/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahmudsagar&theme=onedark&column=-1" alt="mahmudsagar" /></a> </p>
 
 <!-- <p align="left"> <a href="https://github.com/mahmudsagar/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahmudsagar&theme=onedark" alt="mahmudsagar" /></a> </p> -->
 
